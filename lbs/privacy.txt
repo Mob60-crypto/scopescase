@@ -1,0 +1,15 @@
+Mobile Scopes
+
+Privacy policy for lend ad borrow recorder application
+
+This privacy policy covers following 
+
+We do not use users data for any purpose and application is full feature oriented to use local storage
+for any records of data. No any data permissions is requested in the app so user can feel free and safe
+to use this app.
+
+Permission requested
+android.permission.RECEIVE_BOOT_COMPLETED. Needed to notify the app after reboot
+
+Contat us
+Any questions about this Privacy Policy should be addressed to scopesmobile813@gmail.com
