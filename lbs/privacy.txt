@@ -5,11 +5,13 @@ Privacy policy for lend ad borrow recorder application
 This privacy policy covers following 
 
 We do not use users data for any purpose and application is full feature oriented to use local storage
-for any records of data. No any data permissions is requested in the app so user can feel free and safe
-to use this app.
+for any records of data.  User can feel free and safe to use this app. Files access permission is requested 
+only to backup and restore the recorded data.
 
 Permission requested
 android.permission.RECEIVE_BOOT_COMPLETED. Needed to notify the app after reboot
+android.permission.WRITE_EXTERNAL_STORAGE. Needed to backup data 
+android.permission.READ_EXTERNAL_STORAGE.  Needed to restore data
 
 Contat us
 Any questions about this Privacy Policy should be addressed to scopesmobile813@gmail.com
